@@ -46,7 +46,9 @@ If new values are entered Advertiser = "P&G", Brand = "Gillette", Product = "Fus
 
 ## gulp commands
 `gulp wiredep` - add dependancies to html file
+
 `gulp serve` - development
+
 `gulp build` - build project
 
 
