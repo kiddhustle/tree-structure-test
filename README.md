@@ -39,14 +39,13 @@ P&G
 * Gulp
 * npm
 * sass
+
 ## Installation
 '''
 npm install
 bower install
-
-
 '''
-## gulp command
+## gulp commands
 '''gulp wiredep''' - add dependancies to html file
 '''gulp serve''' - development
 '''gulp build''' - build project
